@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShopEasy</string>
+    <string name="search_hint">Search products...</string>
+    <string name="banner_title">Special Offer!</string>
+    <string name="banner_subtitle">Get up to 40% OFF on Electronics</string>
+    <string name="categories">Categories</string>
+    <string name="popular_products">Popular Products</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="place_order">Place Order</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="shipping">Shipping</string>
+    <string name="total">Total</string>
+</resources>
